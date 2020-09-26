@@ -27,8 +27,7 @@ Este projeto tem por objetivo conectar profissionais da educação com alunos. N
 
 ---
 ## 🛠️ Tecnologias utilizadas
-
-As seguintes ferramentas foram usadas na construção do projeto:
+<p>As seguintes ferramentas foram usadas na construção do projeto:
 
 - HTML
 - CSS
@@ -36,10 +35,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - Node.js 
 - Nunjucks 
 - SQLite 
-
+</p>
 --- 
 ## ⌨️ Como executar o projeto
-
+<p></p>
 ```bash
 # Clonar o repositório
 git clone https://github.com/marciliocorreia/proffy-nlw2
@@ -58,6 +57,7 @@ Após, será necessário abrir o seu navegador e acessar:  `http://localhost:550
 
 ---
 ### Autor
+<p>
 <img style="border-radius: 50%;" src="https://avatars0.githubusercontent.com/u/49158754?s=460&u=8d2c3e8f7e3441a6b150758a720e7e4379e36407&v=4" width="100px;" alt=""/>
  <sub><b>Marcílio Correia</b></sub></a> <a href="https://www.linkedin.com/in/marciliocorreia/" title="MarcilioCorreia">🚀</a>
 
@@ -68,3 +68,4 @@ Feito com 💜 por Marcílio Correia 👋 Entre em contato!
 
 
 ![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/marciliocorreia/)
+</p>
