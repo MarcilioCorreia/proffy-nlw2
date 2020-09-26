@@ -35,7 +35,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - Node.js 
 - Nunjucks 
 - SQLite 
-</p>
+
 --- 
 ## ⌨️ Como executar o projeto
 
