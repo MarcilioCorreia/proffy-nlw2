@@ -66,5 +66,4 @@ Feito com 💜 por Marcílio Correia 👋 Entre em contato!
 
 [![Gmail Badge](https://img.shields.io/badge/-marcilio.msc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcilio.msc@gmail.com)](mailto:marcilio.msc@gmail.com)
 
-
-![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/marciliocorreia/)
+<a href="https://www.linkedin.com/in/marciliocorreia/">![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/marciliocorreia/)</a>
